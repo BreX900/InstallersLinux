@@ -7,7 +7,7 @@ sudo apt update;
 echo sudo apt install pycharm-professional;
 sudo apt install pycharm-professional;
 
-echo "Download PyCharm-Studio: https://www.jetbrains.com/pycharm/";
+echo "Download PyCharm-Professional: https://www.jetbrains.com/pycharm/";
 echo "Press to continue...";
 read TMP;
 
