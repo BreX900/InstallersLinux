@@ -13,15 +13,15 @@ mkdir ~/.onedrive
 cp ./onedrive_d/res/default_ignore.ini ~/.onedrive/ignore_v2.ini
 
 # First read help info(NON NECESSARIO)
-onedrive-pref --help
-onedrive-d --help
+#onedrive-pref --help
+#onedrive-d --help
 
 #Aprire il link nel broswer. accedere ed acettare. incollare il link risultante nel cmd
 #1.Y 2-3-4.n
 # Run config program with CLI
 onedrive-pref
 # Or run with GUI
-onedrive-pref --ui=gtk
+#onedrive-pref --ui=gtk
 
 # Run onedrive-d
 # start as a daemon
