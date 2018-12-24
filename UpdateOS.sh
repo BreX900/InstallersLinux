@@ -1,3 +1,5 @@
+#sudo apt update; sudo apt upgrade; sudo apt dist-upgrade; sudo apt autoclean; sudo apt autoremove;
+
 echo df -h --total;
 df -h --total;
 echo " ";
